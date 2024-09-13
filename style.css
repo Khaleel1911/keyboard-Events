@@ -1,0 +1,22 @@
+/* body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+} */
+
+#box{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(31, 255, 42);
+    border-radius: 10px;
+    position: absolute;
+}
+
+#logo{
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
